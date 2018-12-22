@@ -1,0 +1,144 @@
+body {
+	background: white;
+	font-family: 'Domine', serif;
+}
+a{
+	text-decoration: none;
+}
+.nav{
+    width: 1300px;
+    height: 112.59px;
+    position: absolute;
+    top: 0;
+	font-size: 20px;
+	background: url("../images/gradient_header.png");
+	background-size: cover;
+}
+#aclu{
+	padding-left: 80px;
+	top: 2px;
+	position: absolute;
+}
+.rights{
+	padding-left: 285px;
+	bottom: 2px;
+	position: absolute;
+	color: #026bc4;
+	font-size: 35px;
+}
+.main{
+	width: 275px;
+	top: 2px;
+	right: 0px;
+	position: absolute;
+	color: white;
+}
+.menu{
+	padding-right: 100px;
+	padding-top: 2px;
+	height: 20px;
+	position: absolute;
+	color: white;
+}
+.title{
+	font-size: 28px;
+	color: black;
+	left: 550px;
+	top: 120px;
+	position: absolute;
+}
+h3{
+	font-size: 16px;
+	font-family: 'Domine', serif;
+}
+.store{
+	width: 175px;
+	height: 175px;
+	background: url("../images/store.png");
+	background-size: cover;
+	left: 165px;
+	top: 175px;
+	position: absolute;
+	font-size: 16px;
+	color: white;
+	text-align: center;
+}
+.store_info{
+	color: black;
+	left: 365px;
+	top: 175px;
+	position: absolute;
+	font-size: 16px;
+	width: 150px;
+	text-align: center;
+	font-family: 'Neuton', serif;
+}
+.comment{
+	width: 175px;
+	height: 175px;
+	background: url("../images/comment.jpg");
+	background-size: cover;
+	left: 365px;
+	top: 375px;
+	position: absolute;
+	font-size: 13px;
+	color: white;
+	text-align: center;
+}
+.comment_info{
+	color: black;
+	left: 565px;
+	top: 375px;
+	position: absolute;
+	font-size: 16px;
+	width: 150px;
+	text-align: center;
+	font-family: 'Neuton', serif;
+}
+.donate{
+	width: 175px;
+	height: 175px;
+	background: url("../images/donate.png");
+	background-size: cover;
+	left: 565px;
+	top: 175px;
+	position: absolute;
+	font-size: 13px;
+	color: white;
+	text-align: center;
+}
+.donate_info{
+	color: black;
+	left: 765px;
+	top: 175px;
+	position: absolute;
+	font-size: 16px;
+	width: 150px;
+	text-align: center;
+	font-family: 'Neuton', serif;
+}
+.social_media{
+	width: 175px;
+	height: 175px;
+	background: url("../images/social_media.jpg");
+	background-size: cover;
+	left: 765px;
+	top: 375px;
+	position: absolute;
+	font-size: 13px;
+	color: white;
+	text-align: center;
+}
+.social_info{
+	color: black;
+	left: 965px;
+	top: 375px;
+	position: absolute;
+	font-size: 16px;
+	width: 150px;
+	text-align: center;
+	font-family: 'Neuton', serif;
+}
+.link{
+	color: black;
+}

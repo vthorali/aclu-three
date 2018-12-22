@@ -1,0 +1,227 @@
+body {
+	background: white;
+	font-family: 'Domine', serif;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+.nav{
+    width: 1300px;
+    height: 112.59px;
+    position: absolute;
+    top: 0;
+	font-size: 20px;
+	background: url("../images/gradient_header.png");
+	background-size: cover;
+}
+#aclu{
+	padding-left: 80px;
+	top: 2px;
+	position: absolute;
+}
+.rights{
+	padding-left: 285px;
+	bottom: 2px;
+	position: absolute;
+	color: #026bc4;
+	font-size: 35px;
+}
+.main{
+	width: 275px;
+	top: 2px;
+	right: 0px;
+	position: absolute;
+	color: white;
+}
+.menu{
+	padding-right: 100px;
+	padding-top: 2px;
+	height: 20px;
+	position: absolute;
+	color: white;
+}
+.title{
+	font-size: 28px;
+	color: black;
+	left: 550px;
+	top: 120px;
+	position: absolute;
+}
+.recent{
+	left: 250px;
+	top: 350px;
+	width: 200px;
+	position: absolute;
+	font-size: 22px;
+	color: black;
+}
+.popular{
+	left: 850px;
+	top: 350px;
+	width: 200px;
+	position: absolute;
+	font-size: 22px;
+	color: black;
+}
+.words{
+	top: 5px;
+	position: relative;
+}
+.mom{
+	width: 125px;
+	height: 100px;
+	background-color: blue;
+	background: url("../images/mom.jpg");
+	background-size: cover;
+	left: 165px;
+	top: 200px;
+	position: absolute;
+	font-size: 13px;
+	color: white;
+	text-align: center;
+}
+.seattle{
+	width: 125px;
+	height: 100px;
+	background-color: blue;
+	background: url("../images/florida.jpg");
+	background-size: cover;
+	left: 325px;
+	top: 200px;
+	position: absolute;
+	font-size: 13px;
+	color: white;
+	text-align: center;
+}
+.clinton{
+	width: 125px;
+	height: 100px;
+	background-color: blue;
+	background: url("../images/florida.jpg");
+	background-size: cover;
+	left: 100px;
+	top: 315px;
+	position: absolute;
+	font-size: 13px;
+	color: white;
+	text-align: center;
+}
+.florida{
+	width: 125px;
+	height: 100px;
+	background-color: blue;
+	background: url("../images/florida.jpg");
+	background-size: cover;
+	left: 400px;
+	top: 315px;
+	position: absolute;
+	font-size: 13px;
+	color: white;
+	text-align: center;
+}
+.athletes{
+	width: 125px;
+	height: 100px;
+	background-color: #026bc4;
+	left: 165px;
+	top: 430px;
+	position: absolute;
+	font-size: 13px;
+	color: white;
+	text-align: center;
+}
+.agan{
+	width: 125px;
+	height: 100px;
+	background-color: blue;
+	background: url("../images/agan.jpg");
+	background-size: cover;
+	left: 325px;
+	top: 430px;
+	position: absolute;
+	font-size: 13px;
+	color: white;
+	text-align: center;
+}
+.font{
+	color: black;	
+}
+.suffrage{
+	width: 125px;
+	height: 100px;
+	background-color: blue;
+	background: url("../images/suffrage.jpg");
+	background-size: cover;
+	left: 770px;
+	top: 200px;
+	position: absolute;
+	font-size: 13px;
+	color: white;
+	text-align: center;
+}
+.metoo{
+	width: 125px;
+	height: 100px;
+	background-color: blue;
+	background: url("../images/metoo.png");
+	background-size: cover;
+	left: 930px;
+	top: 200px;
+	position: absolute;
+	font-size: 13px;
+	color: white;
+	text-align: center;
+}
+.harrasment{
+	width: 125px;
+	height: 100px;
+	background-color: blue;
+	background: url("../images/harrasment.png");
+	background-size: cover;
+	left: 705px;
+	top: 315px;
+	position: absolute;
+	font-size: 13px;
+	color: white;
+	text-align: center;
+}
+.fathers{
+	width: 125px;
+	height: 100px;
+	background-color: blue;
+	background: url("../images/fathers.jpg");
+	background-size: cover;
+	left: 1005px;
+	top: 315px;
+	position: absolute;
+	font-size: 13px;
+	color: white;
+	text-align: center;
+}
+.housing{
+	width: 125px;
+	height: 100px;
+	background-color: blue;
+	background: url("../images/housing.png");
+	background-size: cover;
+	left: 770px;
+	top: 430px;
+	position: absolute;
+	font-size: 13px;
+	color: white;
+	text-align: center;
+}
+.legal{
+	width: 125px;
+	height: 100px;
+	background-color: blue;
+	background: url("../images/legal.jpg");
+	background-size: cover;
+	left: 930px;
+	top: 430px;
+	position: absolute;
+	font-size: 13px;
+	color: white;
+	text-align: center;
+}

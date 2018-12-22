@@ -1,0 +1,119 @@
+body {
+	background: white;
+	font-family: 'Domine', serif;
+}
+a{
+	text-decoration: none;
+}
+.nav{
+    width: 1300px;
+    height: 112.59px;
+    position: absolute;
+    top: 0;
+	font-size: 20px;
+	background: url("../images/gradient_header.png");
+	background-size: cover;
+}
+#aclu{
+	padding-left: 80px;
+	top: 2px;
+	position: absolute;
+}
+.rights{
+	padding-left: 285px;
+	bottom: 2px;
+	position: absolute;
+	color: #026bc4;
+	font-size: 35px;
+}
+.main{
+	width: 275px;
+	top: 2px;
+	right: 0px;
+	position: absolute;
+	color: white;
+}
+.menu{
+	padding-right: 100px;
+	padding-top: 2px;
+	height: 20px;
+	position: absolute;
+	color: white;
+}
+.title{
+	font-size: 28px;
+	color: black;
+	left: 550px;
+	top: 120px;
+	position: absolute;
+}
+.stake{
+	left: 150px;
+	top: 120px;
+	position: absolute;
+	font-size: 28px;
+	color: black;	
+}
+.issues{
+	top: 200px;
+	left: 150px;
+	position: relative;
+	font-size: 24px;
+}
+.issues_titles{
+	padding-bottom: 30px;
+	cursor: pointer;
+}
+/*.pregnancy:hover{
+	top: 215px;
+	left: 700px;
+	width: 500px;
+	height: 200px;
+	content: url("../images/pregnancy.jpg");
+	position: fixed;
+}*/
+.pregnancy_info{
+	top: 215px;
+	left: 700px;
+	width: 500px;
+	height: 200px;
+	position: fixed;
+	display: none;
+	color: black;
+}
+.violence_info{
+	top: 265px;
+	left: 700px;
+	width: 500px;
+	height: 200px;
+	position: fixed;
+	display: none;
+	color: black;
+}
+.workplace_info{
+	top: 320px;
+	left: 700px;
+	width: 500px;
+	height: 200px;
+	position: fixed;
+	display: none;
+	color: black;
+}
+.education_info{
+	top: 375px;
+	left: 700px;
+	width: 500px;
+	height: 200px;
+	position: fixed;
+	display: none;
+	color: black;
+}
+.justice_info{
+	top: 425px;
+	left: 700px;
+	width: 500px;
+	height: 200px;
+	position: fixed;
+	display: none;
+	color: black;
+}
